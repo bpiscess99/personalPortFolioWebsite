@@ -1,0 +1,9 @@
+@media screen and (max-width:1570px){
+    *{
+    /* background-color: rgb(224, 146, 146); */
+}
+.devPic{
+    display: none;
+}
+
+}
